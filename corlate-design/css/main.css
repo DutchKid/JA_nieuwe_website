@@ -186,7 +186,7 @@ body > section {
 .top-bar {
   padding: 10px 0;
   background: #E64A19;
-  border-bottom: 1px solid #222;
+  border-bottom: 1px solid #E64A19;
   line-height: 28px;
 }
 
@@ -225,7 +225,7 @@ ul.social-share li a {
 }
 
 ul.social-share li a:hover {
-  background: #c52d2f;
+  background: #E64A19;
   color: #fff;
 }
 
@@ -290,7 +290,7 @@ input.search-form:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
-	background-color: #c52d2f;
+	background-color: #E64A19;
   color: #fff;
 }
 
@@ -310,7 +310,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #c52d2f;
+  background-color: #E64A19;
   color: #fff;
 }
 
@@ -340,7 +340,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav .dropdown-menu > li:hover > a,
 .navbar-inverse .navbar-nav .dropdown-menu > li:focus > a,
 .navbar-inverse .navbar-nav .dropdown-menu > li.active > a {
-  background-color: #c52d2f;
+  background-color: #E64A19;
   color: #fff;
 }
 
@@ -464,7 +464,7 @@ input.search-form:hover {
 #main-slider .carousel-indicators li {
   width: 20px;
   height: 20px;
-  background-color: #fff;
+  background-color: #FF5722;
   margin: 0 15px 0 0;
   position: relative;
 }
@@ -476,7 +476,7 @@ input.search-form:hover {
   height: 24px;
   border-radius: 100%;
   background: rgba(0, 0, 0, 0);
-  border: 1px solid #FFF;
+  border: 1px solid #ED4A19;
   left: -3px;
   top: -3px;
 }
@@ -484,9 +484,9 @@ input.search-form:hover {
 #main-slider .carousel-indicators .active{
   width: 20px;
   height: 20px;
-  background-color: #c52d2f;
+  background-color: #FF5722;
    margin: 0 15px 0 0;
-   border: 1px solid #c52d2f;
+   border: 1px solid #FF5722;
    position: relative;
 }
 
@@ -496,8 +496,8 @@ input.search-form:hover {
   width: 24px;
   height: 24px;
   border-radius: 100%;
-  background: #c52d2f;
-  border: 1px solid #c52d2f;
+  background: #E64A19;
+  border: 1px solid #E64A19;
   left: -3px;
   top: -3px;
 }
